@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Gestion_de_solicitudes
+namespace Gestion_desolicitudes
 {
     public class Startup
     {
